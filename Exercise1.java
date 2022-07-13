@@ -1,9 +1,11 @@
-// Write a program to print your Name, Father's Name and Mailing Address in different lines
+// Write a program to print the remainder when x is divided by y where x=100 and y=4
 
 public class Exercise1 {
-public static void main(String args[]) {
- System.out.println("Bhargav Tumati");
-  System.out.println("T Adrushta Rao");
-    System.out.println("bhargav.tumati15@gmail.com");
+public static void main (String[] args){
+  int x=100;
+    int y=4;
+    int z;
+  z=x%y;
+  System.out.println("remainder when x divideded by y is" +z);
 }
 }
