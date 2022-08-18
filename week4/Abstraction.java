@@ -1,3 +1,4 @@
+//wap to demonstrate abstraction
 abstract class n{
   int a=10;
   int b=20;
