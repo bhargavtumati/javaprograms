@@ -1,0 +1,3 @@
+Bhargav 38000 Javadeveloper
+Jaswanth 48000 Phythondeveloper
+Nithesh 28000 Frontendendeveloper
