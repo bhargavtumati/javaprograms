@@ -1,0 +1,275 @@
+Coding Problems on Arrays Questions 
+1. Find pair with given sum in the array
+2. Check if subarray with 0 sum is exists or not Print all sub-arrays with 0 sum
+3. Sort binary array 
+4. Find a duplicate element in a limited range array
+5. Find maximum length sub-array having given sum
+6. Find maximum length sub-array having equal number of 0's and 1's Sort an array containing 0's, 1's and 2's (Dutch national flag problem) 
+7. Find maximum product of two integers in an array
+8. Rearrange the array with alternate high and low elements Find equilibrium index of an array
+9. Find maximum difference between two elements in the array by satisfying given constraints Maximum subarray problem (Kadane's algorithm)
+10. Find minimum sum subarray of given size k
+11. Find subarray having given sum in given array of integers
+12. Longest Decreasing Subsequence Problem
+13. Find maximum product subarray in a given array
+14. Find odd occurring element in an array 
+15. Partition an array into two sub-arrays with the same sum 
+16. Find Minimum Index of Repeating Element in an Array
+17. How do you find the missing number in a given integer array of 1 to 100?
+18. How do you find all pairs of an integer array whose sum is equal to a given number?
+19. How to remove duplicates from a given array in Java?
+20. Given an unsorted array of integers, find the length of the longest consecutive elements sequence? 
+21. Write a Java program to find second largest element in an array of integers?
+22. Write a Java program to find the most frequent element in an array?
+
+Coding Problems on Strings
+1. How to get distinct characters and their count in a String?
+2. How to remove all occurrences of a given character from input String?
+3. Write a program to find out first non repeated character from input String?
+4. check if a String contains only digits?
+5. Write a Java program to find the duplicate words and their number of occurrences in a string?
+6. Write a Java program to count the number of words in a string? Write a Java program to count the total number of occurrences of a given character in a string
+7. Write a Java program to count the number of occurrences of each character in a string?
+8. Write a Java program to remove all white spaces from a string?
+9. Write a Java program to find duplicate characters in a string?
+10. Write a Java program to check whether one string is a rotation of another?
+11. Write a Java program to check whether two strings are anagram or not?
+12. Write a Java program to reverse a given string with preserving the position of spaces?
+13. Write a Java program to reverse a string with preserving the position of spaces. For example, if "I Am Not String" is the given string then the reverse of this string with preserving the position of spaces is "g ni rtS toNmAI"
+14. Write a Java program to reverse each word of a given string?
+15. How do you convert string to integer and integer to string in Java?
+16. Write a Java program to find the percentage of uppercase letters, lowercase letters, digits and special characters in a given string?
+17. How do you find longest substring without repeating characters in the given string?
+18. Write a Java program to find all permutations of a string?
+19. How do you find first repeated and non-repeated character in the given string in Java?
+20. Write a Java program to append a given string to a text file?
+21. How do you find the number of characters, words and lines in the given text file in Java?
+22. How do you find the most repeated word in a text file in Java?
+23. How to reverse a sentence word by word in Java?
+24. Write a Java program to reverse a sentence word by word. For example, If "Java Concept Of The Day" is an input string then output will be "Day The Of Concept Java".
+25. How to remove all vowels from a string in Java?
+26. How to replace a specific string in a text file?
+27. Java program to print all sub strings of a string.
+28. Java program to print common characters between two strings in alphabetical order.
+29. How to search a word in the given string
+30. How to search last occurance of a substring inside a substring?
+31. How to remove a particular character from a string?
+
+Coding Problems on Data Structures
+1. Implement a stack using the queue data structure
+2. Implement a queue using the stack data structure
+3. Reverse a string using a stack data structure
+4. Stack implementation using an array
+5. Stack implementation using list
+6. Queue implementation using an array
+7. Queue implementation using list
+8. Sort a Stack using Recursion
+9. Implementation of
+i. Bubble sort
+ii. Selection sort
+iii. Insertion sort
+iv. Quick sort
+v. Merge sort
+vi. Binary search
+vii. Linear Search
+
+Reverse every alternate group of k nodes in a linked list Determine if a given linked list is a palindrome or not Sort a Doubly Linked List using Merge Sort
+Convert a Ternary Tree to a Doubly Linked List Reverse a Doubly Linked List
+Pairwise swap adjacent nodes of a linked list Flatten a linked list
+Check if a linked list of strings is palindromic Flatten a multilevel linked list
+Construct a height-balanced BST from an unbalanced BST
+Swap K'th node from beginning with K'th node from end in a Linked List Link nodes present in each level of a binary tree in the form of a linked list Convert a Ternary Tree to a Doubly Linked List
+Print nodes of a given binary tree in vertical order
+
+Matrix
+Print Matrix in Spiral Order
+Create Spiral Matrix from given array
+Shift all matrix elements by 1 in Spiral Order
+Find Shortest path from source to destination in a matrix that satisfies given constraints Change all elements of row i and column j in a matrix to 0 if cell (i, j) has value 0
+Print diagonal elements of the matrix having positive slope Find all paths from first cell to last cell of a matrix
+Replace all occurrences of 0 that are not surrounded by 1 in a binary matrix In-place rotate the matrix by 90 degrees in clock-wise direction
+Count negative elements present in sorted matrix in linear time
+Report all occurrences of an element in row wise and column wise sorted matrix in linear time Calculate sum of all elements in a sub-matrix in constant time
+Find maximum sum K x K sub-matrix in a given M x N matrix Find maximum sum submatrix present in a given matrix
+Find probability that a person is alive after taking N steps on the island Count the number of islands
+Flood fill Algorithm
+Find shortest safe route in a field with sensors present Find all occurrences of given string in a character matrix Shortest path in a Maze | Lee algorithm
+Check if given matrix is Toeplitz matrix or not In-place rotate the matrix by 180 degrees
+
+Fill Binary Matrix with Alternating Rectangles of 0 and 1
+Find all common elements present in every row of given matrix Construct a Binary Tree from Ancestor Matrix
+Find common elements present in all rows of a matrix
+Find index of the row containing maximum number of 1's in a binary matrix Generate list of possible words from a character matrix
+Find the largest square sub-matrix which is surrounded by all 1's Sort an array using Young tableau
+Young Tableau | Insert, Search, Extract-Min, Delete, Replace
+
+Collect maximum points in a matrix by satisfying given constraints
+Count number of paths in a matrix with given cost to reach destination cell Find longest sequence formed by adjacent numbers in the matrix
+Find the minimum cost to reach last cell of the matrix from its first cell
+Ways to reach the bottom-right corner of a matrix with exactly k turns allowed Matrix Chain Multiplication
+Find size of largest square sub-matrix of 1's present in given binary matrix Chess Knight Problem - Find Shortest path from source to destination Find Duplicate rows in a binary matrix
+Print all possible solutions to N Queens problem Print all Possible Knight's Tours in a chessboard Find Shortest Path in Maze
+Find Longest Possible Route in a Matrix
+Find total number of unique paths in a maze from source to destination Calculate size of the largest plus of 1's in binary matrix
+Find the maximum value of M[c][d] - M[a][b] over all choices of indexes Find shortest distance of every cell from landmine in a Maze
+Find shortest route in a device to construct the given string Travelling Salesman Problem using Branch and Bound
+
+Queue
+Queue Implementation
+Queue Implementation using Linked List Implement Stack using Queue Data Structure Implement a Queue using Stack Data Structure
+Efficiently print all nodes between two given levels in a binary tree Chess Knight Problem - Find Shortest path from source to destination Shortest path in a Maze | Lee algorithm
+
+Find shortest safe route in a field with sensors present Flood fill Algorithm
+Count the number of islands
+Find Shortest path from source to destination in a matrix that satisfies given constraints Generate binary numbers between 1 to N
+Calculate height of a binary tree | Iterative & Recursive Delete given Binary Tree | Iterative & Recursive
+Level Order Traversal of Binary Tree Spiral Order Traversal of Binary Tree
+Reverse Level Order Traversal of Binary Tree
+Print all nodes of a given binary tree in specific order Print left view of binary tree
+Find next node in same level for given node in a binary tree Check if given binary tree is complete binary tree or not Print Diagonal Traversal of Binary Tree
+Print corner nodes of every level in binary tree
+Invert given Binary Tree | Recursive and Iterative solution
+Minimum number of throws required to win Snake and Ladder game Find shortest distance of every cell from landmine in a Maze
+Convert a multilevel linked list to a singly linked list
+Breadth First Search (BFS) | Iterative & Recursive Implementation Check if an undirected graph contains cycle or not
+Find maximum cost path in graph from given source to destination Find maximum cost path in graph from given source to destination
+Total number of paths in given digraph from given source to destination having exactly m edges Least cost path in given digraph from given source to destination having exactly m edges
+
+Sorting
+Insertion sort | Iterative & Recursive Selection sort | Iterative & Recursive Bubble sort | Iterative & Recursive Merge Sort Algorithm
+Iterative Merge Sort Algorithm (Bottom-up Merge Sort) Quicksort Algorithm
+Iterative Implementation of Quicksort Hybrid Quicksort
+Quicksort using Dutch National Flag Algorithm Quick Sort using Hoare's Partitioning scheme
+
+External merge sort Counting Sort Algorithm
+Custom Sort | Sort elements by their frequency and Index
+Custom Sort | Sort elements of the array by order of elements defined by the second array Inversion Count of an array
+Segregate positive and negative integers in linear time Efficiently Sort an Array with many Duplicated Values Sort an array using Young tableau
+Problems solved using partitioning logic of quicksort
+
+Find the smallest window in array sorting which will make the entire array sorted Find largest number possible from set of given numbers
+Move all zeros present in the array to the end Sort binary array in linear time
+Sort linked list containing 0's, 1's and 2's Merge Sort Algorithm for Singly Linked List Sort a Doubly Linked List using Merge Sort
+Group anagrams together from given list of words Activity Selection Problem
+Lexicographic sorting of given set of keys Heap Sort Algorithm
+Merge M sorted lists of variable length
+Merge M sorted lists each containing N elements Find all palindromic permutations of a string
+Find all lexicographically next permutations of a string sorted in ascending order Merge two sorted linked lists from their end
+Sort an array containing 0's, 1's and 2's (Dutch national flag problem) Find pair with given sum in the array
+In place merge two sorted arrays
+Merge two arrays by satisfying given constraints Find maximum product of two integers in an array Find all distinct combinations of given length
+Find all distinct combinations of given length with repetition allowed Merging Overlapping Intervals
+Print all quadruplets with given sum | 4-sum problem extended 4 sum problem | Quadruplets with given sum
+Find two numbers with maximum sum formed by array digits Find a Triplet having Maximum Product in an Array
+Find Minimum Product among all Combinations of Triplets in an Array Find all distinct combinations of given length - Part 2
+
+Find the surpasser count for each element of an array Segregate positive and negative integers using Merge sort
+
+Stack
+Stack Implementation
+Stack Implementation using Linked List
+Check if given expression is balanced expression or not Find duplicate parenthesis in an expression
+Evaluate given postfix expression
+Decode the given sequence to construct minimum number without repeated digits Design a stack which returns minimum element in constant time
+Design a stack which returns minimum element without using auxiliary stack Reverse a string without using recursion
+Implement Stack using Queue Data Structure Implement a Queue using Stack Data Structure Implement two stacks in a single array Recursive solution to sort a stack
+Reverse a string using stack data structure
+
+Inorder Tree Traversal | Iterative & Recursive Preorder Tree Traversal | Iterative & Recursive Postorder Tree Traversal | Iterative & Recursive
+Find preorder traversal of a binary tree from its inorder and postorder sequence Find ancestors of given node in a Binary Tree
+Check if two given binary trees are identical or not | Iterative & Recursive Reverse Level Order Traversal of Binary Tree
+Reverse given text without reversing the individual words
+Find all binary strings that can be formed from given wildcard pattern Iterative Implementation of Quicksort
+Depth First Search (DFS) | Iterative & Recursive Implementation Invert given Binary Tree | Recursive and Iterative solution
+Print leaf to root path for every leaf node in a binary tree Longest Increasing Subsequence
+
+String
+Check if given string is a rotated palindrome or not
+Longest Palindromic Substring (Non-DP Space Optimized Solution)
+
+Check if repeated subsequence is present in the string or not
+Check if strings can be derived from each other by circularly rotating them Check if given set of moves is circular or not
+Convert given number into corresponding excel column name Determine if two strings are anagram or not
+Find all binary strings that can be formed from given wildcard pattern Find all interleaving of given strings
+Isomorphic Strings
+Find all possible palindromic substrings in a string
+Find all possible combinations of words formed from mobile keypad
+Find all possible combinations by replacing given digits with characters of the corresponding list Find all words from given list that follows same order of characters as given pattern
+Find first k non-repeating characters in a string in single traversal Group anagrams together from given list of words
+Introduction to Pattern Matching
+In place remove all occurrences of 'AB' and 'C' from the string Longest even length palindromic sum substring
+Print string in zig-zag form in k rows
+Reverse given text without reversing the individual words Run Length Encoding (RLE) data compression algorithm Validate an IP address
+Find the longest substring of given string containing k distinct characters Find all palindromic permutations of a string
+Find all substrings of a string that are permutation of a given string
+Find the longest substring of given string containing all distinct characters Find all Permutations of a given string
+Iterative Approach to find Permutations of a String
+Generate all Permutations of a String in Java | Recursive & Iterative
+Find all lexicographically next permutations of a string sorted in ascending order Find Lexicographically minimal string rotation
+Find all strings of given length containing balanced parentheses
+Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) Find all N-digit binary numbers having more 1's than 0's for any prefix
+Find all N-digit numbers with given sum of digits
+Find all N-digit binary numbers with k-bits set where k ranges from 1 to N Generate binary numbers between 1 to N
+Find all combinations of non-overlapping substrings of a string Check if given sentence is syntactically correct or not
+Calculate rank of given string among all its lexicographically sorted permutations Find all Lexicographic Permutations of a String
+
+Find all N-digit binary numbers with equal sum of bits in its two halves Check if given string is interleaving of two other given strings Difference between Subarray, Subsequence and Subset std::next_permutation | Overview & Implementation in C++ std::prev_permutation | Overview & Implementation in C++ Implementation of KMP Algorithm
+Reverse String without using Recursion Reverse given string using Recursion Reverse a String in Java in 10 different ways
+Determine if a given string is palindrome or not
+In-place remove all adjacent duplicates from the given string
+Find the minimum number of inversions needed to make the given expression balanced Replace all non-overlapping occurrences of the pattern
+Construct the longest palindrome by shuffling or deleting characters from a string Determine if characters of a String follow a specified order or not
+Print all combinations of phrases that can be formed by picking words from each of the given lists Remove all extra spaces from a string
+Break a string into all possible combinations of non-overlapping substrings Remove adjacent duplicate characters from a string
+Find first non-repeating character in a string by doing only one traversal of it Find all N-digit numbers with equal sum of digits at even and odd index
+
+Combinations of words formed by replacing given numbers with corresponding alphabets Word Break Problem
+Wildcard Pattern Matching
+Count number of times a pattern appears in given string as a subsequence The Levenshtein distance (Edit distance) problem
+Longest Common Subsequence | Introduction & LCS Length Longest Common Subsequence | Space optimized version Longest Common Subsequence of K-sequences
+Longest Common Subsequence | Finding all LCS Longest Repeated Subsequence problem
+Longest Palindromic Subsequence using Dynamic Programming Longest Common Substring problem
+Shortest Common Supersequence | Introduction & SCS Length Shortest Common Supersequence | Finding all SCS
+Shortest Common Supersequence | Using LCS Implement Diff Utility
+Word Break Problem | Using Trie Data Structure
+Find minimum cuts needed for palindromic partition of a string
+
+Check if a string is K-Palindrome or not
+Find shortest route in a device to construct the given string Find minimum number possible by doing at-most K swaps Determine if a pattern matches with a string or not
+Find the correct order of alphabets in a given dictionary of ancient origin
+
+Trie
+Trie Implementation | Insert, Search and Delete
+Memory efficient Trie Implementation using Map | Insert, Search and Delete C++ Implementation of Trie Data Structure
+Longest Common Prefix in given set of strings (using Trie) Lexicographic sorting of given set of keys
+Find maximum occurring word in given set of strings
+Find first k maximum occurring words in given set of strings Find Duplicate rows in a binary matrix
+Word Break Problem | Using Trie Data Structure Generate list of possible words from a character matrix
+
+Greedy
+Activity Selection Problem Huffman Coding
+Job Sequencing Problem with Deadlines Greedy coloring of graph
+Kruskal's Algorithm for finding Minimum Spanning Tree Single-Source Shortest Paths - Dijkstra's Algorithm Shortest Superstring Problem
+
+Puzzles
+Clock angle problem - Find angle between hour and minute hand Add two numbers without using addition operator
+Generate power set of a given set
+Implement power function without using multiplication and division operators Print all numbers between 1 to N without using semicolon
+Swap two numbers without using third variable Determine the if condition to print specific output
+
+Find maximum, minimum of three numbers without using conditional statement and ternary operator
+Find numbers represented as sum of two cubes for two different pairs Print "Hello World" with empty main() function
+Tower of Hanoi Problem
+Print all numbers between 1 to N without using any loop
+Print a semicolon without using semicolon anywhere in the program Multiply two numbers without using multiplication operator or loops
+Find square of a number without using multiplication and division operator Find if a number is even or odd without using any conditional statement Set both elements of a binary array to 0 in single line
+Find minimum number without using conditional statement or ternary operator Perform Division of two numbers without using division operator (/)
+Generate 0 and 1 with 75% and 25% Probability
+Generate Desired Random Numbers with Equal Probability
+Return 0, 1 and 2 with equal Probability using the specified function Generate Fair Results from a Biased Coin
+Generate numbers from 1 to 7 with equal probability using specified function Implement Ternary Operator Without Using Conditional Expressions
+Determine if two integers are equal without using comparison and arithmetic operators Return 0 and 1 with equal Probability using the specified function
+Generate Random Input from an Array according to given Probabilities Generate Fair Results from a Biased Coin
+Magnet Puzzle
+
+Thank you all being with us.
