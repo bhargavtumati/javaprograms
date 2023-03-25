@@ -1,0 +1,3 @@
+bhargav 1458 manager
+nikhil 1479 clerk
+kowshick 7546 cashier

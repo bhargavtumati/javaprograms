@@ -1,0 +1,3 @@
+bhargav 101 male
+swetha 102 female
+vamsi 450 male
