@@ -1,0 +1,336 @@
+Java Self Review Questions
+
+Topic 1: Questions on  java tokens , variable, operator and control statements
+
+1.	What is the difference between JDK, JRE, and JVM?
+2.	Define the role of each keyword in the syntax of main () method?
+public static void main(Stringargs[])
+3.	Why is java not a 100% object-oriented programming language?
+4.	How to take integer, double, character and string as input in Java?
+5.	Why is java platform independent?
+6.	What is bytecode in java?
+7.	Can there be two main methods in a class?
+8.	How many data types does java support?
+9.	Can I store a double value in a long variable without casting?
+10.	What is the use of the final keyword?
+11.	What do you mean by a keyword?
+12.	What is variable? How can we define variables in java?
+13.	What is the task of breaking and continue statements?
+14.	What are the different types of control statements?
+15.	Differentiate prefix and postfix notation.
+16.	What do you mean by control statements?
+17.	What is the difference between switch and if statements?
+18.	Differentiate between local variable, static variable and instance variable?
+19.	What are Loops in Java? What are three types of loops?
+20.	What is the difference between double and float variables in Java?
+21.	Can we execute a program without the main () method?
+22.	What is the difference between the print and println methods?
+23.	our program needs a variable of type int to hold the number of feet in a mile (5,280), write a declaration statement for the variable?
+24.	What is primitive data? How are primitive data types different from objects?
+25.	What are the four integer data types in Java? How are they different?
+26.	What is operator precedence? 
+27.	What are the rules to be followed while declaring a variable?
+
+Topic 2: Questions on  Arrays
+
+28.	What is Array in Java? or how does array works internally?
+29.	Can you pass the negative number as an Array size?
+30.	What are the different ways of declaring arrays?
+31.	What do you mean by array?
+32.	How do you create array?
+33.	Advantages and disadvantages of array?
+34.	Can we declare array without assigning the size of array?
+35.	How to print array elements?
+36.	How to accesses array element?
+37.	Is there any difference between int[] a and int a[]?
+38.	How to iterate array or travel array in java?
+39.	Where is memory allocated for arrays in java?
+40.	What is two dimensional array?
+
+Topic 3: Questions on Strings
+1.	What are different ways to create String Object?
+2.	What is String Pool?
+3.	How can we make String upper case or lower case?
+4.	How to compare two Strings in java program?
+5.	How to convert String to char and vice versa?
+6.	Difference between String, StringBuffer and StringBuilder?
+7.	Why String is immutable or final in Java
+8.	How to Split String in java?
+9.	How does the substring method work in Java?
+10.	Difference between str1 == str2 and str1.equals(str2)
+11.	When you execute String str = new String("abcd")? how many String objects are created?
+12.	The difference between String and StringBuffer in Java?The d
+13.	Difference between StringBuffer and StringBuilder in Java?
+14.	How does one convert String to Integer and vice versa in Java?
+
+Topic 4: Questions Basics of OOP Principles
+1.	What is the difference between OOP and SOP?
+The main difference between structured and object oriented programming is that structured programming allows developing a program using a set of modules or functions, while object oriented programming allows constructing a program using a set of objects and their interactions.
+
+2.	Why use OOPs?
+OOP language allows to break the program into the bit-sized problems that can be solved easily (one object at a time). The new technology promises greater programmer productivity, better quality of software and lesser maintenance cost. OOP systems can be easily upgraded from small to large systems.
+
+3.	What is OOPs?
+OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.
+
+4.	What are the main features of OOPs?
+Object-oriented programming has four basic concepts: encapsulation, abstraction, inheritance and polymorphism.
+
+5.	What is an object?
+An object is an instance of a class
+
+6.	What is a class?
+ A class is a template or blueprint from which objects are created.
+
+7.	Can you call the class method without creating an instance?
+We can call a static method by using the ClassName. methodName. The best example of the static method is the main() method. It is called without creating the object.
+
+8.	What is inheritance?
+The capability of a class to derive properties and characteristics from another class is called Inheritance.
+
+9.  Give an example of encapsulation.
+Containers are just one example of encapsulation in coding where data and methods are bundled together into a single package.
+
+10.	Give a real-life example of data abstraction.
+A car. You interact with the car through abstractions - a gas pedal, the steering wheel, which are used to hide the complexity of the vehicle. You use the abstraction of the gas pedal to control the engine speed, you do not have to manually inject the gas into the engine and control the pistons
+
+11.	Explain the concept of inheritance with a real-life example.
+Inheritance is a mechanism in which one class acquires the property of another class. The class 'Car' inherits its properties from the class 'Automobiles' which inherits some of its properties from another class 'Vehicles'.
+
+12.	How is encapsulation different from data abstraction?
+Abstraction is the method of hiding the unwanted information. Whereas encapsulation is a method to hide the data in a single entity or unit along with a method to protect information from outside. We can implement abstraction using abstract class and interfaces
+
+13.	What are the differences between class and objects in Java?
+A class is used to bind data as well as methods together as a single unit.	Objects are like a variable of the class
+
+14.	What are different access modifiers in Java?
+There are four types of access modifiers available in java:
+Default – No keyword required.
+Private.
+Protected.
+Public.
+
+15.	When to use encapsulation in a program?
+Encapsulation refers to the bundling of data with the methods that operate on that data. Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.
+
+16.	How data hiding is possible in java?
+In java it is achieved by using a keyword 'private' keyword and the process is called data hiding. It is used as security such that no internal data will be accessed without authentication. An unauthorized end user will not get access to internal data.
+
+17.	How to hide implementation in java?
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+Technically abstract means something incomplete or to be completed later.
+An interface is a blueprint of a class.
+NOTE: Interfaces only define required methods.
+
+18.	What is polymorphism?
+In Java, polymorphism refers to the ability of a class to provide different implementations of a method, depending on the type of object that is passed to the method.
+
+19.	What are the types of polymorphism?
+There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism. We can perform polymorphism in java by method overloading and method overriding.
+
+20.	 Give example for the class and object.
+ in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake. A Class is like an object constructor, or a "blueprint" for creating objects.
+
+Topic 5: Questions constructor and static key word
+1.	Is it always necessary to create objects from class?
+Static methods are the methods in Java that can be called without creating an object of class. They are referenced by the class name itself or reference to the Object of that class
+
+2.	What is a constructor?
+A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
+
+3.	List the various types of constructors
+In Java, constructors can be divided into 3 types:
+No-Arg Constructor.
+Parameterized Constructor.
+Default Constructor.
+
+4.	What are the various types of inheritance?
+On the basis of class, there can be three types of inheritance in java: single, multilevel and hierarchical
+To reduce the complexity and simplify the language, multiple inheritance is not supported in java.
+hybrid inheritance is also not supported.
+
+5.	Are there any limitations of Inheritance?
+Inheritance creates dependency between child and parent, when a class inherit another class, we include all methods and attributes from parent class and expose to the child class, therefore we break the encapsulation, the child object can access all the methods in parent object and overwrite them.
+
+6.	What are the Rules for defining a constructor?
+A constructor does not have return type. The name of the constructor is same as the name of the class. A constructor cannot be abstract, final, static and Synchronized. You can use the access specifiers public, protected & private with constructors.
+
+7.	What is Constructor Chaining in Java?
+Constructor chaining is the process of calling one constructor from another constructor with respect to current object. 
+
+8.	Can we have this and super in the same constructor?
+“this()” and “super()” cannot be used inside the same constructor, as both cannot be executed at once (both cannot be the first statement). “this” can be passed as an argument in the method and constructor calls.
+
+9.	Will compiler create the Default Constructor when we already have a Constructor defined in the class ?
+the compiler by default creates a default constructor for every class; But, if we define our own constructor, the compiler doesn't create the default constructor.
+
+10.	Why constructors cannot be final in Java?
+The child class inherits all the members of the superclass except the constructors. In other words, constructors cannot be inherited in Java therefore you cannot override constructors. So, writing final before constructors makes no sense. Therefore, java does not allow final keyword before a constructor
+
+11.	Why constructors cannot be static in Java
+A constructor is called when an object of a class is created, so no use of the static constructor. Another thing is that if we will declare static constructor then we can not access/call the constructor from a subclass.
+
+12.	Are static local variables allowed in Java?
+Java does not allow static local variables. The compiler will throw the compilation error.
+
+13.	Order of execution of static block, initializer block and constructor during inheritance.
+Order of execution
+When you have all the three in one class, the static blocks are executed first, followed by constructors and then the instance methods.
+
+14.	non-static method cannot be referenced from a static context ?
+A static method cannot tell to which particular object the non-static member belongs to. Since there is no existing object, the non-static method doesn't belong to any object. Hence there is no way a non-static method can be referenced from static context
+
+15.	. Can we override static method in Java? 
+Static methods are bonded at compile time using static binding. Therefore, we cannot override static methods in Java.
+
+16.	Can we overload a static method in Java
+ The answer is 'Yes'. We can have two or more static methods with the same name, but differences in input parameters.
+
+Topic 6: Questions inheritance concept
+1.	What is Inheritance in Java?
+Inheritance is a mechanism wherein a new class is derived from an existing class. In Java, classes may inherit or acquire the properties and methods of other classes. 
+
+2.	Why do we need to use inheritance?
+Inheritance enables code reusability and saves time. Inheritance is used to declare characteristics of classes inheriting it,without giving its implementation.It is one of the most important concept of OOPS. Inheritance is an object-oriented property of java. Inheritance is very essential for expandability.
+
+3.	What is Is-A relationship in Java?
+For example, if a class Bulb inherits another class Device, then we can say that Bulb is having is-a relationship with Device, which implies Bulb is a device.
+
+4.	What is super class and subclass?
+A class derived from another class is called a subclass, whereas the class from which a subclass is derived is called a superclass
+
+5.	Write the syntax for creating the subclass of a class?
+suppose that you wanted to create a subclass named SubClass of another class named SuperClass. You would write: class SubClass extends SuperClass 
+
+6.	Which class in Java is superclass of every other class?
+The class named Object is the super class of every class in Java.
+
+Let’s test it with an example. The java.lang.Class.getSuperclass() returns the Class representing the superclass of the entity (class, interface, primitive type or void) represented by this Class.
+Example
+ Live Demo
+
+public class Test {
+   public static void main(String args[]){
+      Test obj = new Test();
+      Class cls = obj.getClass().getSuperclass();
+      System.out.println(cls.getName());
+   }
+}
+Output
+Since the Object class is the super class of all classes it displays the name of the object class as shown below.
+
+java.lang.Object
+
+7.	Can a class extend itself?
+A class cannot extend itself since it IS itself, The definition of subclass is that it extends another class and inherits the state and behaviors from that class. so it is not a subclass. Inner classes are allowed to extend the outer class because those are two different classes.
+
+8.	Can a class extend more than one class in java?
+A class can implement more than one interface at a time. A class can extend only one class, but implement many interfaces.
+
+9.	Are constructor and instance initialization block 
+inherited to subclass?
+Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass. In the same way,you cannot inherit static block . Static initialzier blocks are not inherited .
+
+10.	Are static members inherited to subclass in Java?
+No. Static members cannot be inherited. However super class and the sub class can have static method with same signature. Super class static member will be hidden at the sub class
+
+11.	Can we extend (inherit) final class?
+The final modifier for finalizing the implementations of classes, methods, and variables. The main purpose of using a class being declared as final is to prevent the class from being subclassed. If a class is marked as final then no class can inherit any feature from the final class. You cannot extend a final class
+
+12.	Can a final method be overridden?
+You use the final keyword in a method declaration to indicate that the method cannot be overridden by subclasses.
+
+13.	Can we inherit private members of base class to its 
+subclass?
+A subclass does not inherit the private members of its parent class. However, if the superclass has public or protected methods for accessing its private fields, these can also be used by the subclass.
+
+14.	What are the various forms of inheritance available in Java?
+Types of Inheritance in Java
+Single Inheritance.
+Multiple Inheritance.
+Multi-Level Inheritance.
+Hierarchical Inheritance.
+Hybrid Inheritance
+
+15.	How will you restrict a member of a class from inheriting its subclass?
+Private members are not used by anything. Therefore, the Programmer can restrict a member of a class from inheriting its subclasses by using a private access specifier.
+
+16.	Can we access subclass members if we create an object of superclass?
+If we create an object of the superclass, we can access only the members of the superclass. We cannot access the subclass members by creating an object of superclass.
+
+17.	Can we access both superclass and subclass members if we create an object of subclass?
+In inheritance, subclass acquires super class properties. An important point to note is, when a subclass object is created, a separate object of a superclass object will not be created. Only a subclass object is created that has superclass variables
+
+18.	What happens if both superclass and subclass have a field with the same name?
+Sub class field will hide the Super class field. Hidden super class field in sub class can be accessed using super keyword.
+
+Topic 7: Interfaces and Abstract classes
+1)	How to achieve or implement Abstraction in Java?
+We can achieve abstraction in two ways:
+Using Abstract Class
+Using Interface
+
+2)	What is Abstract class in Java? How to define it?
+Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class). Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
+
+3)	What is the difference between abstract class and concrete class?
+An abstract class is declared using abstract modifier. A concrete class is not declared using abstract modifier. An abstract class cannot be directly instantiated using the new keyword. A concrete class can be directly instantiated using the new keyword.
+
+4)	Can an abstract method be declared as static?
+If you declare a method in a class abstract to use it, you must override this method in the subclass. But, overriding is not possible with static methods. Therefore, an abstract method cannot be static.
+
+5)	When to use Abstract class in Java?
+Java Abstract class is used to provide common method implementation to all the subclasses or to provide default implementation.
+
+6)	Is abstract class pure abstraction in Java?
+pure abstract means class contain all methods are abstract methods. that class as a pure abstract class.
+
+7)	Is it possible to create an object of abstract class in Java?
+We cannot create objects of an abstract class. To implement features of an abstract class, we inherit subclasses from it and create objects of the subclass. A subclass must override all abstract methods of an abstract class.
+
+8)	Is it possible that an abstract class can have without any abstract method?
+Yes, we can declare an abstract class with no abstract methods in Java.
+
+9)	Can an abstract class have a constructor?
+Like any other classes in Java, abstract classes can have constructors even when they are only called from their concrete subclasses.
+
+10)	Can we make an abstract class without abstract keywords?
+yes, you can declare abstract class without defining an abstract method in it. Once you declare a class abstract it indicates that the class is incomplete and, you cannot instantiate it.You can create an interface which is a set of abstract methods without using abstract keyword.
+
+11)	How to define an Interface?
+An interface is declared by using the interface keyword. It provides total abstraction; means all the methods in an interface are declared with the empty body, and all the fields are public, static and final by default. A class that implements an interface must implement all the methods declared in the interface.
+
+12)	 What must a class do to implement an interface?
+A class that implements an interface must implement all the methods declared in the interface. The methods must have the exact same signature (name + parameters) as declared in the interface. The class does not need to implement (declare) the variables of an interface. Only the methods.
+
+13)	Difference between Base Class, Derived Class, Abstract Class and Concrete Class?
+A base class is one that does not inherit from any other class. A derived class does inherit from another class. An abstract class is one that has one or more pure virtual functions. A concrete class has no pure virtuals.
+
+Topic 8: Polymorphism
+1)	What is Polymorphism in Java OOPs?
+Polymorphism is one of the OOPs feature that allows us to perform a single action in different ways.
+
+2)	What are the types of Polymorphism in Java?
+There are two types of polymorphism in Java: compile time polymorphism and run time polymorphism in java. This java polymorphism is also referred to as static polymorphisms(method overloading) and dynamic polymorphisms(method overriding).
+
+3)	What are the differences between Polymorphism and Inheritance in Java?
+Inheritance supports the concept of reusability and reduces code length in object-oriented programming. Polymorphism allows the object to decide which form of the function to implement at compile-time (overloading) as well as run-time (overriding).
+4)	What is Compile time polymorphism (Static polymorphism)?
+Compile-time polymorphism is also known as static polymorphism or early binding. Compile-time polymorphism is a polymorphism that is resolved during the compilation process. Overloading of methods is called through the reference variable of a class.
+
+5)	How to achieve or implement static polymorphism in Java?
+In Java, static polymorphism is achieved through method overloading. Method overloading means there are several methods present in a class having the same name but different types/order/number of parameters.
+
+6)	What is Runtime Polymorphism (Dynamic Polymorphism)?
+Runtime polymorphism is also known as dynamic polymorphism or late binding. In runtime polymorphism, the function call is resolved at run time. In contrast, to compile time or static polymorphism, the compiler deduces the object at run time and then decides which function call to bind to the object.
+7)	How to achieve/implement dynamic polymorphism in Java?
+We can achieve dynamic polymorphism by using the method overriding. In this process, an overridden method is called through a reference variable of a superclass. The determination of the method to be called is based on the object being referred to by the reference variable.
+
+8)	What is Binding in Java?
+Binding is a mechanism creating link between method call and method actual implementation. As per the polymorphism concept in Java , object can have many different forms. Object forms can be resolved at compile time and run time.
+
+9)	What are the types of binding in Java?
+There are two types of Binding: Static and Dynamic Binding in Java. If the compiler maps the method at compile-time, it is Static Binding or early binding. And, if the method is resolved at runtime, it is Dynamic Binding or late binding.
+
+10)	 What is dynamic bunding
+Dynamic binding or late binding is the mechanism a computer program waits until runtime to bind the name of a method called to an actual subroutine.
