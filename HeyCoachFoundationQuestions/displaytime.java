@@ -1,22 +1,19 @@
-class Solution {
-    static convertSeconds(seconds) {
-      //Write your code here
-    let hr = 0, min = 0, sec = 0;
-    if (seconds >= 3600) {
-      hr = Math.floor(seconds / 3600);
-      seconds -= 3600 * hr;
+public class Solution {
+    public static void convertSeconds(int seconds) {
+        int hr = seconds / 3600;
+        seconds %= 3600;
+        int min = seconds / 60;
+        seconds %= 60;
+        int sec = seconds;
+
+        // Ensuring two digits for hours, minutes, and seconds
+        String formattedTime = String.format("%02d:%02d:%02d", hr, min, sec);
+
+        System.out.println(formattedTime);
     }
-    if (seconds >= 60) {
-      min = Math.floor(seconds / 60);
-      seconds -= 60 * min;
+
+    public static void main(String[] args) {
+        // Example usage:
+        convertSeconds(3665); // Output: 01:01:05
     }
-    if (seconds > 0) {
-      sec = seconds;
-    }
-   let formattedTime = hr.toString().padStart(2, '0') + ":" +
-                        min.toString().padStart(2, '0') + ":" +
-                        sec.toString().padStart(2, '0');
-       console.log(formattedTime);
-  }
-    
 }
